@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Social Media
 <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.simpleicons.org/whatsapp/075e54" />
-<img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" />
+<img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.simpleicons.org/instagram/fccc63" />
 
 # 
 
