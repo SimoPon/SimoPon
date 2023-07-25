@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**`Front-End Developer`**
+`Front-End Developer`
 Here are some ideas to get you started:
 
 - 🔭 [Linkedin](https://www.linkedin.com/in/simone-pontrelli/)
