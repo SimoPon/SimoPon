@@ -13,14 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/simone-pontrelli/"/> 
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=linkedingg">
-</a>
-  
-</p>
-
 <details>
   <summary>Ciao!</summary>
   sccfsafsfasfasfa
@@ -29,9 +21,15 @@ Here are some ideas to get you started:
 
 ### Social Media
 <div>
-  <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.simpleicons.org/whatsapp/25d366" />
-  <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.simpleicons.org/instagram/e95950" />
+  <a href="https://www.linkedin.com/in/simone-pontrelli/">
+     <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+  <a href="https://wa.me/+393471688350">
+    <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.simpleicons.org/whatsapp/25d366" />
+  </a>
+  <a href="https://www.instagram.com/simone.pontrelli/">
+    <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.simpleicons.org/instagram/e95950" />
+  </a>
 </div>
 
 #
