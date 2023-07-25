@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<details>
+  <summary>Ciao!</summary>
+  sccfsafsfasfasfa
+</details>
 # 
 
 ### Social Media
