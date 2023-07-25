@@ -1,6 +1,6 @@
 # Ciao! Sono Simone Pontrelli 👋
 
-`Front-End Developer`
+<h3>`Front-End Developer`</h3>
 
 Studio ITPS presso l'Università degli studi di Bari. Sempre pronto a dare il meglio, vivo la mia vita una riga di codice alla volta.
 Ho sviluppato delle solide competenze nel Web Design lavorando a stretto contatto con i clienti consentendomi di realizzare progetti importanti.
