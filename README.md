@@ -22,8 +22,9 @@ Ho sviluppato delle solide competenze nel Web Design lavorando a stretto contatt
     <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.simpleicons.org/gmail/c71610" />
   </a>
 </div>
+<br>
 
-#
+# 
 
 ### Languages and Tools
 <div>
