@@ -1,21 +1,10 @@
-# Hi there 👋
+# Ciao! Sono Simone Pontrelli 👋
 
 `Front-End Developer`
 
-Here are some ideas to get you started:
-
-- 🔭 [Linkedin](https://www.linkedin.com/in/simone-pontrelli/)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 Studio ITPS presso l'Università degli studi di Bari. Sempre pronto a dare il meglio, vivo la mia vita una riga di codice alla volta.
 Ho sviluppato delle solide competenze nel Web Design lavorando a stretto contatto con i clienti consentendomi di realizzare progetti importanti.
+
 #
 
 ### Social Media
@@ -30,7 +19,7 @@ Ho sviluppato delle solide competenze nel Web Design lavorando a stretto contatt
     <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.simpleicons.org/instagram/e95950" />
   </a>
     <a href="mailto:pontrellisimone01@gmail.com">
-    <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.simpleicons.org/gmail/e95950" />
+    <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.simpleicons.org/gmail/c71610" />
   </a>
 </div>
 
