@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="left">
+
+<a href="https://www.linkedin.com/in/simone-pontrelli/"/> 
+  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=linkedingg">
+</a>
+  
+</p>
+
 <details>
   <summary>Ciao!</summary>
   sccfsafsfasfasfa
