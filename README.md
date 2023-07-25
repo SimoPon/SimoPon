@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<details>
-  <summary>Ciao!</summary>
-  sccfsafsfasfasfa
-</details>
-# 
+
+Studio ITPS presso l'Università degli studi di Bari. Sempre pronto a dare il meglio, vivo la mia vita una riga di codice alla volta.
+Ho sviluppato delle solide competenze nel Web Design lavorando a stretto contatto con i clienti consentendomi di realizzare progetti importanti.
+#
 
 ### Social Media
 <div>
@@ -29,6 +28,9 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.instagram.com/simone.pontrelli/">
     <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.simpleicons.org/instagram/e95950" />
+  </a>
+    <a href="mailto:pontrellisimone01@gmail.com">
+    <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.simpleicons.org/gmail/e95950" />
   </a>
 </div>
 
