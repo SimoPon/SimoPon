@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 
 # 
 
+### Social Media
+<img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<img align="left" alt="" width="25px" style="padding-right:10px" src="https://unpkg.com/simple-icons@v9/icons/whatsapp" />
+<img align="left" alt="" width="25px" style="padding-right:10px" src="https://unpkg.com/simple-icons@v9/icons/instagram" />
+
+
+# 
+
 ### Languages and Tools
 <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
@@ -25,6 +33,8 @@ Here are some ideas to get you started:
 <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="" width="25px" style="padding-right:10px" src="" />
-<img align="left" alt="" width="25px" style="padding-right:10px" src="" />
+<img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+<img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+
 <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
