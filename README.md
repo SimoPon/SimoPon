@@ -2,8 +2,11 @@
 
 <h3>`Front-End Developer`</h3>
 
-Studio ITPS presso l'Università degli studi di Bari. Sempre pronto a dare il meglio, vivo la mia vita una riga di codice alla volta.
-Ho sviluppato delle solide competenze nel Web Design lavorando a stretto contatto con i clienti consentendomi di realizzare progetti importanti.
+Studio "Informatica e Tecnologie per la Produzione del Software" presso l'Università degli Studi di Bari e mi considero sempre pronto a dare il massimo in tutto ciò che faccio. Vivo la vita una riga di codice alla volta.
+
+Nel corso del tempo, ho sviluppato solide competenze nel campo del Front-End Development, collaborando con clienti ed aziende per realizzare progetti significativi e importanti. 
+
+Sono entusiasta di continuare a crescere e contribuire con la mia passione e le mie competenze.
 
 #
 
