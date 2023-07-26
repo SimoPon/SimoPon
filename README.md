@@ -1,12 +1,22 @@
-# Ciao! Sono Simone Pontrelli 👋
+# Hi! I'm Simone Pontrelli 👋
 
-<h3>`Front-End Developer`</h3>
+`Front-End Developer`
 
-Studio "Informatica e Tecnologie per la Produzione del Software" presso l'Università degli Studi di Bari e mi considero sempre pronto a dare il massimo in tutto ciò che faccio. Vivo la vita una riga di codice alla volta.
+Studio "Informatica e Tecnologie per la Produzione del Software" presso l'Università degli Studi di Bari. 
+Mi considero sempre pronto a dare il massimo in tutto ciò che faccio. Vivo la vita una riga di codice alla volta.
 
 Nel corso del tempo, ho sviluppato solide competenze nel campo del Front-End Development, collaborando con clienti ed aziende per realizzare progetti significativi e importanti. 
 
 Sono entusiasta di continuare a crescere e contribuire con la mia passione e le mie competenze.
+
+#
+
+I'm studying "Computer Science and Technologies for Software Production" at the University of Bari (Italy). 
+I consider myself always ready to give my all in everything I do. I live life one line of code at a time.
+
+Over time, I have developed solid skills in the field of Front-End Development, working with clients and companies to accomplish significant and important projects. 
+
+I am excited to continue to grow and contribute my passion and skills.
 
 #
 
